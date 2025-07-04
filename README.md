@@ -6,6 +6,10 @@
 ### 🌱 Repositorios 
 -  Codica [gendiff](https://github.com/angelggd/frontend-project-98).
 
+### ✨ Social
+- [linkedin](https://www.linkedin.com/in/angelgildiaz/).
+ 
+
 <!--
 **angelggd/angelggd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
