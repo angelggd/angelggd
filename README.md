@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Ingeniero de Sistemas con experiencia en el desarrollo y mantenimiento de sistemas informáticos
+
 <!--
 **angelggd/angelggd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
