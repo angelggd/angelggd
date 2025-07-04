@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### Ingeniero de Sistemas con experiencia en el desarrollo y mantenimiento de sistemas informáticos
+### Ingeniero de Sistemas con experiencia en el desarrollo y mantenimiento de sistemas informáticos.
+### Manejo en la programación de aplicaciones web , así como en la gestión de bases de datos,. Capacidad para liderar equipos de  trabajo y resolver problemas de manera efectiva., comprometido, entusiasta, autodidacta, con deseos de seguir aprendiendo de las nuevas tecnologías e implantarlas en nuevos desarrollos.
 
 <!--
 **angelggd/angelggd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
