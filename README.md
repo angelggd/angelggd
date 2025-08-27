@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### Ingeniero de Sistemas con experiencia en el desarrollo y mantenimiento de sistemas informáticos.
-### Manejo en la programación de aplicaciones web en JavaScript, PHP, así como en la gestión de bases de datos. Capacidad para liderar equipos de  trabajo y resolver problemas de manera efectiva, comprometido, entusiasta, autodidacta, con deseos de seguir aprendiendo de las nuevas tecnologías e implantarlas en nuevos desarrollos.
+###FullStack Developer  [ HTML -CSS ] - [ Javascript | React.js - VueJS - NodeJS | ]  - [ PHP | Laravel | ] 
 
 ### 🌱 Repositorios 
 -  Codica [gendiff](https://github.com/angelggd/frontend-project-98).
