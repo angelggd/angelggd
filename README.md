@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###FullStack Developer  [ HTML -CSS ] - [ Javascript | React.js - VueJS - NodeJS | ]  - [ PHP | Laravel | ] 
+### FullStack Developer  [ HTML -CSS ] - [ Javascript | React.js - VueJS - NodeJS | ]  - [ PHP | Laravel | ] 
 
 ### 🌱 Repositorios 
 -  Codica [gendiff](https://github.com/angelggd/frontend-project-98).
